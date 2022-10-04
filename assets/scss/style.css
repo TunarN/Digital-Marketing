@@ -1,0 +1,100 @@
+#education .name h1 {
+  font-size: 65px;
+  color: #4A4A4A;
+}
+
+#education-content {
+  margin-top: 50px;
+}
+
+#education-content .private {
+  position: relative;
+  width: 550px;
+  height: 372px;
+  border: 1px solid black;
+}
+
+#education-content .private p {
+  text-align: left;
+  margin-left: 27px;
+  margin-top: 50px;
+}
+
+#education-content .private .head {
+  margin-left: 27px;
+  margin-top: 30px;
+}
+
+#education-content .private button {
+  width: 138.36px;
+  height: 60px;
+  border: 1px solid black;
+  background-color: blueviolet;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  position: absolute;
+  bottom: 27px;
+  left: 27px;
+}
+
+#education-content .private button h5 {
+  margin-right: 10px;
+  color: white;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+}
+
+#education-content .private button:hover {
+  background-color: white;
+}
+
+#education-content .private button:hover h5 {
+  color: black;
+}
+
+#education-content .private-1 {
+  position: relative;
+  width: 550px;
+  height: 372px;
+  border: 1px solid black;
+  float: right;
+}
+
+#education-content .private-1 p {
+  text-align: left;
+  margin-left: 27px;
+  margin-top: 50px;
+}
+
+#education-content .private-1 .head {
+  margin-left: 27px;
+  margin-top: 30px;
+}
+
+#education-content .private-1 button {
+  width: 138.36px;
+  height: 60px;
+  border: 1px solid black;
+  background-color: blueviolet;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  position: absolute;
+  bottom: 27px;
+  left: 27px;
+}
+
+#education-content .private-1 button h5 {
+  margin-right: 10px;
+  color: white;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+}
+
+#education-content .private-1 button:hover {
+  background-color: white;
+}
+
+#education-content .private-1 button:hover h5 {
+  color: black;
+}
+/*# sourceMappingURL=style.css.map */
